@@ -6,4 +6,4 @@
 
 ## Basic Of Java
 
-1. Topic Cover At [Day1](../30_Day_Challenge/Day_1/basics_of_java/readme.md).
+1. Topic Cover At [Day1](./Day_1/basics_of_java/readme.md)
