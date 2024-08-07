@@ -1,5 +1,11 @@
-# Basics of java
-## Topics Covers
+# 30 Day challenge 
+`To Do List`
+1. Basics of java
+2. DSA
+3. MERN stack
+
+## Basics of java
+### Topics Covers
 
 1. First Program [Main.java](../../Day_1/basics_of_java/Main.java)
 
