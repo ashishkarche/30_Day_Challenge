@@ -6,4 +6,6 @@
 
 ## Basic Of Java
 
-1. Topic Cover At [Day1](./Day_1/basics_of_java/readme.md)
+1. [Day1](./Day_1/basics_of_java/readme.md)
+
+2. [Day2](./Day_2/readme.md)

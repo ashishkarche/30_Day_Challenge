@@ -31,6 +31,7 @@ public class java_types {
          * 
          * 1.String
          * 2.New is the keyword, it is used to create new objects.
+         * 3. arrays
          */
 
         String name = new String("ashish");
