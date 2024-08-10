@@ -14,10 +14,5 @@
 
 ## `Basics Of Java Completed 🎯`
 
-4. [Day4](./Problem_Solved/readme.md)
+4. [Day4](./Day_4/readme.md)
 
-## DSA
-
-### Miniproject
-
-1. [Calculator](./Minproject/readme.md)
