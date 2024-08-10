@@ -13,3 +13,11 @@
 3. [Day3](./Day_3/readme.md) || [MiniProject](./Day_3/miniproject/Guess_number.java)
 
 ## `Basics Of Java Completed 🎯`
+
+4. [Day4](./Problem_Solved/readme.md)
+
+## DSA
+
+### Miniproject
+
+1. [Calculator](./Minproject/readme.md)
