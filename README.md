@@ -16,3 +16,7 @@
 
 4. [Day4](./Day_4/readme.md)
 
+# DSA
+
+5. [Day5](./Day_5/readme.md)
+
