@@ -2,4 +2,4 @@
 
 1. [Basic_of_time_complexity](../Day_5/DSA/Basics_of_time_complexity/readme.md)
 
-2. [Array](to be continued..)
+2. [Array](../Day_6/readme.md)
