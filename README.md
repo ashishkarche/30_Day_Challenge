@@ -21,3 +21,5 @@
 5. [Day5](./Day_5/readme.md)
 
 6. [Day6](./Day_6/readme.md)
+
+7. [Day7](./Day_7/readme.md)
