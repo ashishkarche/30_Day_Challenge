@@ -1,5 +1,7 @@
 # 30 Day challenge by ashish
+
 `To Do List`
+
 1. Basics of java
 2. DSA
 3. MERN stack
@@ -23,3 +25,5 @@
 6. [Day6](./Day_6/readme.md)
 
 7. [Day7](./Day_7/readme.md)
+
+8. [Day8](./Day_8/readme.md)
