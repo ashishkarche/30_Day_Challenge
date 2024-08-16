@@ -28,4 +28,6 @@
 
 8. [Day8](./Day_8/readme.md)
 
-8. [Day9](./Day_9/readme.md)
+9. [Day9](./Day_9/readme.md)
+
+10. [Day10](./Day_10/readme.md)
