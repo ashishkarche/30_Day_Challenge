@@ -7,7 +7,7 @@ public class string {
     public static void String_Practice(int size) {
         // String is used to defined text, word, number , operator(+,-,*).
         // denoted by ['',""]
-        // no need to use try-catch block
+        // no need to use try-catch block.
         // try {
 
         @SuppressWarnings("resource")
