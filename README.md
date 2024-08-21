@@ -37,3 +37,7 @@
 12. [Day12](./Day_12/readme.md)
 
 13. [Day13](./Day_13/readme.md)
+
+14. [Day14](./Day_14/readme.md)
+
+15. [Day15](./Day_15/readme.md)
