@@ -44,4 +44,6 @@
 
 16. [Day16](./Day_16/readme.md)
 
-17. [Day18](./Day_18/readme.md)
+17. [Day18](./Day_18/readme.md) || `Basic DSA Completed`
+
+18. [Day19](./Day_19/readme.md)
