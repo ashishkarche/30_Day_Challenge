@@ -16,7 +16,7 @@
 
 ## `Basics Of Java Completed 🎯`
 
-4. [Day4](./Day_4/readme.md)
+4. [Day4](./Day_4/readme.md) || [Miniproject](./Day_4/Minproject/calculator/calculator.java)
 
 # DSA
 
@@ -36,7 +36,7 @@
 
 12. [Day12](./Day_12/readme.md)
 
-13. [Day13](./Day_13/readme.md)
+13. [Day13](./Day_13/readme.md) || [Miniproject](./Day_13/miniproject/make_sentence.java)
 
 14. [Day14](./Day_14/readme.md)
 
@@ -46,4 +46,6 @@
 
 17. [Day18](./Day_18/readme.md) || `Basic DSA Completed`
 
-18. [Day19](./Day_19/readme.md)
+18. [Day19](./Day_19/readme.md) || [Miniproject](./Day_19/readme.md)
+
+19. [Day20](./Day_20/readme.md)
