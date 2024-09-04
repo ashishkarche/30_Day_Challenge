@@ -49,3 +49,7 @@
 18. [Day19](./Day_19/readme.md) || [Miniproject](./Day_19/readme.md)
 
 19. [Day20](./Day_20/readme.md)
+
+20. [Day21](./Day_21/readme.md)
+
+21. [Day22](./Day_22/readme.md)
