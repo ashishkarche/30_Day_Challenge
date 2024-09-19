@@ -61,3 +61,5 @@
 24. [Day25](./Day_25/readme.md)
 
 24. [Day26](./Day_26/readme.md)
+
+25. [Day27](./Day_27/readme.md)
